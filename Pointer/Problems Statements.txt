@@ -1,0 +1,26 @@
+POINTER
+
+1. Write a program to find the size of a data type without using the `sizeof` operator, use pointer arithmetic. 
+2. Design a function that determines if two pointers point to the same array.
+3. Create a function that uses pointer arithmetic to count the number of elements in an array without utilizing loop constructs.
+4. Implement a program that swaps two strings using pointers to pointers.
+5. Create a function that segregates even and odd values of an integer array using pointers. 
+6. Design a program to concatenate two strings without using standard library functions, only pointers. 
+7. Implement a function that splits a string into two halves and returns pointers to the beginning of each half.
+8. Write a function that trims leading and trailing whitespace from a string using pointers.
+9. Design a program to find the overlapping part of two arrays using pointers.
+10. Create a function that rotates an array to the right by `k` elements using pointers.
+11. Implement a function that merges two sorted arrays into a third array using pointers.
+12. Design a program that checks if a string is a prefix of another string using pointers.
+13. Write a function that converts a string to lowercase using pointers.
+14. Implement a program that finds the first non-repeated character in a string using pointers. 
+15. Design a function that uses pointers to find the intersection of two arrays.
+16. Create a program that checks if a string is a palindrome using pointers. 
+17. Write a function to calculate the dot product of two vectors using pointers.
+18. Design a program that finds the length of a linked list using double pointers.
+19. Implement a function that finds the common elements in three sorted arrays using pointers.
+21. Memory Leak Detector. Implement a custom memory allocator and deallocator. Track allocations and deallocations to detect memory leaks using pointers.
+22. Create a structure representing a point in 2D space. Implement a function that moves the point using pointer arithmetic. 
+23. Implement a custom strtok() function using pointers that splits a string based on a delimiter.
+24. Design a function similar to memcpy() that copies memory areas using pointers.
+25. Implement a function that detects if a pointer has gone out of bounds of an array.
