@@ -1,0 +1,26 @@
+1) Print Duplicate characters from a string.
+2) Convert a string to its integer representation without using any built-in functions.
+3) Print the first non-repeated character from a string.
+4) Find the longest palindrome substring in a given string.
+5) Check if the string contains only digits.
+6) Duplicate characters found in a string.
+7) Check if a string has balanced parentheses.
+8) Count the occurrences of a given character in a string.
+9) Check if two strings are anagrams of each other.
+10) Reverse words in a given sentence without using any library method.
+11) Check if two strings are a rotation of each other.
+12) Check if a given string is a palindrome.
+13) Count the number of vowels and constants in a given string.
+14) Reverse a string using recursion.
+15) Find all permutations of a string.
+16) Check for Pangram
+17) String Interleaving:
+18) Longest Substring Without Repeating Characters:
+20) Find Lexicographically Minimal Rotation.
+19) Count Substrings with Equal 0s and 1s.
+21) Substring Count.
+22) String Encoding.
+23) String Decoding.
+24) Maximum Occurring Character.
+25) Palindrome Partitioning.
+26) Repeated Substring Pattern.
