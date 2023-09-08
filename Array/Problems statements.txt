@@ -1,26 +1,25 @@
-1) Print Duplicate characters from a string.
-2) Convert a string to its integer representation without using any built-in functions.
-3) Print the first non-repeated character from a string.
-4) Find the longest palindrome substring in a given string.
-5) Check if the string contains only digits.
-6) Duplicate characters found in a string.
-7) Check if a string has balanced parentheses.
-8) Count the occurrences of a given character in a string.
-9) Check if two strings are anagrams of each other.
-10) Reverse words in a given sentence without using any library method.
-11) Check if two strings are a rotation of each other.
-12) Check if a given string is a palindrome.
-13) Count the number of vowels and constants in a given string.
-14) Reverse a string using recursion.
-15) Find all permutations of a string.
-16) Check for Pangram
-17) String Interleaving:
-18) Longest Substring Without Repeating Characters:
-20) Find Lexicographically Minimal Rotation.
-19) Count Substrings with Equal 0s and 1s.
-21) Substring Count.
-22) String Encoding.
-23) String Decoding.
-24) Maximum Occurring Character.
-25) Palindrome Partitioning.
-26) Repeated Substring Pattern.
+1) Find the missing number in a given integer array of 1 to 500. 
+2) Find the duplicate number on a given integer array.
+3) Find the largest and smallest number in an unsorted integer array.
+4) Find all pairs of an integer array whose sum is equal to a given number.
+5) Find duplicate numbers in an array if it contains multiple duplicates.
+6) Sort an array using the quicksort algorithm.
+7) Remove duplicates from an array without using any library.
+8) Determine the intersection of two integer arrays. 
+9) Rotate an array to the right by k steps.
+10) Count occurrences of a number in a sorted array.
+11) Find the "Kth" max and min element of an array.
+12) Move all zeros to the left of an array while maintaining the order of other numbers.
+13) Merge two sorted arrays to produce one sorted array. 
+14) Find the majority element in an array (appears more than n/2 times). 
+15) Find the two repeating elements in a given array.
+16) Rearrange positive and negative numbers in an array.
+17) Find if there's a subarray with zero sum.
+18) Find the equilibrium index of an array (where the sum of elements on the left is equal to sum on the right). 
+19)Find the longest consecutive subsequence in an array. 
+20) Rearrange array such that arr[i] becomes arr[arr[i]]. 
+21) Find the peak element in an array (greater than or equal to its neighbors).
+22) Compute the product of an array except self. 
+23) Compute the leaders in an array. 
+24) Find if an array can be divided into pairs whose sum is divisible by k. 
+25) Find the subarray with the least sum.
