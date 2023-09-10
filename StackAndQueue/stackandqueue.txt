@@ -1,0 +1,26 @@
+Stack and Queue
+1) Byte-Packing Stack.
+2) String Message Queue.
+3) Nested Statement Counter.
+4) Expression Validator.
+5) Command Parser.
+6) Palindrome Checker using Stack.
+7) Queue-based Sequence Generator.
+8) Function Call Logger.
+9) Queue-based Text Filter.
+10) Recursive to Iterative Converter.
+11) Stack-based Text Editor.
+12) Queue-based Logger.
+13) Multi-stack Array.
+14) Circular Queue.
+15) Min-Element Stack.
+16) Stack Sorting.
+17) Queue from Stacks.
+18) Stack-based Calculator.
+19) Priority Queue using Heap.
+20) Radix Sort using Queue.
+21) Queue with Two Priorities.
+22) Undo and Redo Stack.
+23) Post-order Traversal using Stack.
+24) Balanced Parentheses using Stack.
+25) Queue-based Cache.
