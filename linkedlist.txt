@@ -1,0 +1,56 @@
+LINKEDLIST
+
+1) Find Middle element of a singly linked list in one pass.
+2) Find the length of a singly linked list.
+3) Reverse a linked list.
+4) Reverse a singly linked list without recursion.
+5) Remove duplicate nodes in an unsorted linked list.
+6) Find the nth node from the end of a singly linked list.
+7) Move the last element to the front of a given linked list.
+8) Delete alternate nodes of a linked list.
+9) Pairwise swap elements of a linked list.
+10) Check if a given linked list contains a cycle and what would be the starting node?
+11) Intersection point of two linked lists.
+12) Segregate even and odd nodes in a linked list.
+13) Merge two sorted linked lists.
+14) Add two numbers represented by linked lists.
+15) Find sum of two linked lists using stack.
+16) Compare two strings represented as linked lists.
+17) Clone a linked list with the next and random pointer.
+18) Merge sort on a linked list.
+19) Detect and remove loops in a linked list.
+20) Flatten a multi-level linked list.
+21) Partition a linked list around a given value.
+22) Remove all nodes in a linked list that have a specific value.
+23) Convert a binary number represented by a linked list to an integer.
+24) Find the common ancestor of two nodes in a binary tree represented as a doubly linked list.
+25) Determine if a linked list is a palindrome.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
