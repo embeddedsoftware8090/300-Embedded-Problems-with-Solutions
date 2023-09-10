@@ -1,0 +1,35 @@
+STRUCTURE
+
+1) Define a structure to represent a 3D point in space. Write functions to calculate the distance between two points.
+2) Define a structure for a student with name, roll number, and marks in 5 subjects. Calculate the average marks for a list of students. ( Structure with Arrays).
+3) Create a structure for a book with title, author, and price. Implement a function to discount the book's price by a given percentage. 
+4) Design a structure for an employee with an embedded structure for address (street, city, state, zip). ( Nested Structure)
+5) Use a union to represent a 32-bit value that can be accessed as either two 16-bit values or four 8-bit values.
+6) Define a structure and determine its memory size. Rearrange its members to minimize memory wastage due to alignment. ( Structure Memory Alignment) 
+7) Implement a mini database for a library using an array of structures. Include functionalities like adding a new book and searching for a book by title. ( Array of Structures)
+8) Create a linked list of students using structures and dynamic memory allocation. ( Dynamic Memory with Structures)
+9) Use a union to interpret a 4-byte array as an integer and a floating-point number.
+10) Define a structure with bit fields to represent a set of configurations/settings for a device. ( Bit Fields for compact Structure)
+11) Implement a function that takes two date structures (day, month, year) and returns the difference in days. ( Passing Structures to Functions)
+12) Create a union that can hold an IP address as a string and as four separate byte values. Implement functions to convert between the two representations.
+13) Create a structure representing a menu item with a name (string) and an associated function pointer to execute when the menu item is selected.( Function pointer in structures)
+14) Define a structure for a network packet, which includes an enum to represent the packet type (e.g., DATA, ACK, NACK). ( Enum with structures)
+15) Design a structure to represent a command and its associated parameters. Implement a function to parse a string command into this structure. ( Structure for Command Parsing)
+16) Create a base structure for a vehicle with attributes like weight and max_speed. Extend this to derive structures for a car (with attributes like seating capacity) and a truck (with attributes like max_load) ( Structure Inheritance)
+17) Define a structure for a complex number. Implement functions for addition, subtraction, multiplication, and division of two complex numbers.
+18) Use a union to convert endianness (big-endian to little-endian and vice versa) of an integer.
+19) Define a structure for representing time (hours, minutes, seconds). Implement functions to add time durations and convert this duration to seconds.
+20) Design a union that can represent an error code as both an integer and a descriptive string.
+21) Create a union to hold an IP address both as a string (like "192.168.1.1") and as four separate byte values.
+22) Create a structure to simulate file attributes like name, type (using enum), size, and creation date (use the Date structure from problem 2).
+23) Create a structure to represent serialized data packets with fields like header, payload, and checksum. Implement functions to serialize and deserialize data.
+24) Implement a structure that can store an array of data. However, the data type can vary - it could be an array of integers, floats, or characters. Use a union to manage this variability
+25) Create a structure that can represent a color in both RGB and CMYK formats. Use a union to switch between the RGB representation and the CMYK representation.
+
+
+
+
+
+
+
+
