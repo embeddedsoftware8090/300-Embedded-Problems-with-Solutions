@@ -1,0 +1,27 @@
+SEARCHING 
+1) Search for an element in an unsorted array.
+2) Search for an element in a sorted array.
+3) Implement binary search recursively.
+4) Implement interpolation search on a sorted array
+5) Use exponential search to find an element in a sorted array.
+6) Implement jump search.
+7) Implement Fibonacci search on a sorted array.
+8) Implement sentinel search on an unsorted array.
+9) Implement ternary search on a sorted array.
+10) Search an element in a sorted and rotated array. 
+11) Find a peak element in an array.
+12) Find the missing number in an array of 1 to N.
+13) Find the first and last occurrence of an element in a sorted array.
+14) Find a fixed point (value equal to index) in a given array. 
+15) Count occurrences of a number in a sorted array. 
+16) Find the majority element in an array, if it exists. 
+17) Search for an element in a bitonic array (an array that is first increasing then decreasing).
+18) Search for an element in a matrix where rows and columns are sorted. 
+19) Count the number of times a sorted array is rotated. 
+20) Find the Kth maximum and minimum element in an array. 
+21) In a sorted array, find two numbers that add up to a specific target sum "N". 
+22) In a sorted array of distinct elements, find the smallest missing element.
+23) Search for an element in a nearly sorted array (elements may be swapped).
+24) Given an array of n unique numbers except for one number which is repeating and one number which is missing, find them. 
+25) Given a sorted array of unknown length, find if an element exists. 
+
